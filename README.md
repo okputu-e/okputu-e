@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Okputu
-- 👀 I’m interested in PHP, Javascript, and Python
-- 🌱 I’m currently learning Javascript and React
+- 👋 Hi, I’m Okputu - A Frontend Engineer
+- 👀 I’m interested in Javascript, PHP, and Python
+- 🌱 I’m actively working and learning Javascript and React
 - 💞️ I’m looking to collaborate on Javascript and PHP projects
 - 📫 How to reach me immanuelokputu94@gmail.com
 
