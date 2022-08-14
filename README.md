@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Okputu - A Full Stack Developer
+- 👋 Hi, I’m Okputu - A Software Developer
 - 👀 I’m interested in Javascript, PHP, and Python
 - 🌱 I’m actively working and learning Javascript and React
 - 💞️ I’m looking to collaborate on Javascript and PHP projects
